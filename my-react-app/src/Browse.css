@@ -1,0 +1,97 @@
+ .App-title {
+   display:block;
+  height: 30px;
+  margin-top:55px;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 30px;
+  /* identical to box height, or 100% */
+  
+  
+  color: #46d9f3;
+ }
+
+ .back
+ {
+   display:inline-block;
+  position: absolute;
+  left: 30px;
+  top: 58px;
+  color:#46d9f3;
+ }
+
+ .BrowseCard1
+ {
+  position: absolute;
+  left: 20px;
+  top: 117px;
+  width: 335px;
+  height: 261px;
+  border-radius: 20px;
+  background-color: #252836;
+ }
+
+ .BrowseCard2
+ {
+  position: absolute;
+  
+  width: 335px;
+  height: 209px;
+  left: 20px;
+  top: 450px;
+  border-radius: 20px;
+  background-color: #252836;
+ }
+
+ .CardRec
+ {
+  position: absolute;
+  width: 335px;
+  height: 209px;
+  
+  border-radius: 20px;
+ }
+
+ .Card-title
+ {
+  position: absolute;
+  height: 22px;
+
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  /* identical to box height, or 157% */
+  padding-top:211px;
+  padding-left:20px;
+  letter-spacing: 0.3px;
+   color:white;
+ }
+
+ .heart
+ {
+  background:#EA5F5F;
+  border-radius:100%;
+  
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  margin-left: 191px;
+  margin-top: 216px;
+
+ }
+ .tel
+ {
+  background-color:#6c53cf;
+  border-radius:100%;
+  color:white;
+   padding:10px;
+   margin-left:6px;
+ }
+

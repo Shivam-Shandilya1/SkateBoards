@@ -1,0 +1,34 @@
+.App {
+    font-family: sans-serif;
+    display:inline-block;
+    font-family: 'Bebas Neue' ;
+   height: 30px;
+   margin-left: 5%;
+   margin-top: 60px;
+   
+   
+   font-style: normal;
+   font-weight: 600;
+   font-size: 40px;
+   line-height: 30px;
+   /* identical to box height, or 100% */
+   
+   
+   color: #FFFFFF;
+    color:white;
+  }
+  .whead
+  {
+    margin-left: 25px;
+    width:50%;
+    
+    
+    font-family: 'Bebas Neue' ;
+
+   
+    /* or 157% */
+    
+    letter-spacing: 0.3px;
+    
+    color: #FFFFFF;
+  }

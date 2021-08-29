@@ -1,0 +1,91 @@
+  .mg
+  {
+   display:inline-block;
+    padding:5px;
+    width: 20px;
+    height: 20px;
+    font-size: 25px;
+    opacity: 0.5;
+    color:white;
+    padding-left: 55%;
+  }
+
+
+  .ppic
+  {
+    display:inline-block;
+
+    border-radius: 100%;
+    margin:2%;
+   
+  }
+
+  .profilePane
+  {
+    
+    width: 100%;
+    margin: 25px;
+  }
+
+  .Card
+  {
+   
+    width: 95%;
+    height: 206px;
+    margin-left: 25%;
+    margin-top: 20px;
+  }
+
+.CardPick
+{
+    height:15rem;
+    width:70%;
+}
+
+  .wtag
+  {
+    margin-left: 5.33%;
+    margin-top: 70px;
+
+
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 18px;
+    /* identical to box height, or 100% */
+    
+    
+    color: #02b6ce;
+  }
+
+  .list
+  {
+      display:inline-block;
+    width: 30%;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+  .Ngopi
+  {
+      margin-top: 50px;
+    height: 12px;
+    margin-left: 25px;
+
+    
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+   
+    /* identical to box height, or 100% */
+    
+    letter-spacing: 0.5px;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: normal;
+    opacity: 0.5;
+  }
+  
