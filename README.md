@@ -13,9 +13,10 @@ in terminal.
 4>For accessing different pages:- 
  * Open index.js     
  * path(my-react-app/src/index.js);
- *// EITHER  IMPORT A/Q to WEB PAGE YOU WANT TO SEE
-// import Browse from './Browse';
-// import Discover from './Discover';
- * inside <reactStirctMode>
- </reactStirctMode>
-*either type <Browse /> OR <Discover>
+ * EITHER  IMPORT <br>
+ import Browse from './Browse';<br>
+ import Discover from './Discover';<br>
+A/Q to WEB PAGE YOU WANT TO SEE
+ * inside reactStirctMode <br>
+*either type <   Browse   /   >  OR <    Discover   /   >
+ 
